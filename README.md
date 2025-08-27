@@ -21,7 +21,7 @@ The notebook contains example code and outputs that illustrate three main approa
 
 2. Method 2 — Using the `ollama` Python client:
    - Call `ollama.chat(model="llama3.2", messages=messages)` to get a response.
-   - This is a higher-level convenience wrapper around the service.
+   - This is a higher-level convenience wrapper around the service. 
 
 3. OpenAI-compatible usage (both Ollama and DeepSeek):
    - Use an OpenAI-compatible client (the notebook uses an `OpenAI` wrapper configured with `base_url='http://localhost:11434/v1'` and a placeholder `api_key`).
