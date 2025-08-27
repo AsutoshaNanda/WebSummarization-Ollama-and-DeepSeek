@@ -4,7 +4,7 @@ Overview
 --------
 This repository contains an exploratory Jupyter Notebook ("Project 2 - Ollama.ipynb") that demonstrates how to call local LLM (large language model) servers (Ollama and DeepSeek) in different ways from Python. It is aimed at beginners who want to learn how to send chat-like messages to models running on a local API endpoint (typically `http://localhost:11434`) and to compare a few client approaches (raw HTTP requests, the `ollama` Python client, and an OpenAI-compatible client wrapper).
 
-Repository structure
+Repository structure 
 --------------------
 - LICENSE — MIT license covering this repo.
 - Project 2 - Ollama.ipynb — interactive notebook with examples and output captured.
