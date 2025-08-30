@@ -8,7 +8,7 @@ Repository structure
 --------------------
 - LICENSE — MIT license covering this repo.
 - Project 2 - Ollama.ipynb — interactive notebook with examples and output captured.
-- README.md — (this file) high-level explanation and quick start.
+- README.md — (this file) high-level explanation and quick start .
 
 What this notebook shows
 ------------------------
